@@ -11,7 +11,7 @@ Detta är ett CTF-projekt byggt med Docker för att simulera en webbapplikation.
 
 ### 1. Klona repot
 ```bash
-git clone <repository-url>
+git clone https://github.com/fjordsec/ctf-den-forsvunna-praktikanten.git
 cd "Den Försvunna Praktikanten"
 ```
 
@@ -30,3 +30,4 @@ Navigera till webbplatsen och följ CTF-utmaningarna.
 
 ## Writeup
 Det finns en detaljerad writeup i `WRITEUP.md` som förklarar lösningarna och stegen för CTF-utmaningarna.
+
