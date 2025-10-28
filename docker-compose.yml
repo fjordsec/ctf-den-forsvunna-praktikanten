@@ -1,0 +1,10 @@
+services:
+  ctf:
+    build: .
+    ports:
+      - "8080:80"
+    develop:
+      watch:
+        - action: sync
+          path: ./www
+          target: /var/www/html
